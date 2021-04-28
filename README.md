@@ -25,7 +25,8 @@ In the root dictionary, create a **.env** file
 touch .env
 ```
 
-Next, open the **.env** file and provide your mongo URI and email like this
+Next, open the **.env** file and provide your mongo URI and email like this.
+<br/> If you're going to use your emial, you might need to set the access to less secure apps setting to **Enabled** from [here](https://www.google.com/settings/security/lesssecureapps)
 
 ```
 MONGO_URI=<your_mongoURI>
