@@ -66,3 +66,4 @@ Then run
 npm run server
 ```
 You're all set!, the API should be running now 👍.
+👍
